@@ -1,0 +1,6 @@
+python-telegram-bot==20.0
+requests==2.26.0
+python-dotenv==0.19.2
+Flask==2.0.2
+fastapi==0.68.0
+pytest==6.2.5
